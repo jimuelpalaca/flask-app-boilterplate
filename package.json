@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "css:dev": "npx tailwindcss -i app/public/css/main.css -o app/public/css/main.min.css --minify --watch",
-    "css:prod": "npx tailwindcss -i app/public/css/main.css -o app/public/css/main.min.css --minify"
+    "css:dev": "npx tailwindcss -i app/static/css/main.css -o app/static/css/main.min.css --minify --watch",
+    "css:prod": "npx tailwindcss -i app/static/css/main.css -o app/static/css/main.min.css --minify"
   },
   "author": "",
   "description": "",

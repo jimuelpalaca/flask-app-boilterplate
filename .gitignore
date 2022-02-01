@@ -5,4 +5,4 @@ __pycache__/
 .env
 
 node_modules
-app/public/css/*.min.css
+app/static/css/*.min.css

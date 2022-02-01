@@ -1,2 +1,2 @@
-import app.controllers.index
-import app.controllers.auth
+import App.controllers.index
+import App.controllers.auth
