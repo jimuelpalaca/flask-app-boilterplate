@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/datawarehouse-web.iml" filepath="$PROJECT_DIR$/.idea/datawarehouse-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/flask-app-boilerplate.iml" filepath="$PROJECT_DIR$/.idea/flask-app-boilerplate.iml" />
     </modules>
   </component>
 </project>
