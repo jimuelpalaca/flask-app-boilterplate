@@ -1,0 +1,16 @@
+{
+  "name": "flask-app",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "css:dev": "npx tailwindcss -i app/public/css/main.css -o app/public/css/main.min.css --minify --watch",
+    "css:prod": "npx tailwindcss -i app/public/css/main.css -o app/public/css/main.min.css --minify"
+  },
+  "author": "",
+  "description": "",
+  "devDependencies": {
+    "cssnano": "^5.0.16",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.18"
+  }
+}
